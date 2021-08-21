@@ -8,10 +8,10 @@
   - [Usage](#Usage)
   - [Links](#Links)
   ## Installations
-  -npm install 
-  -jest 
-  -inquirer  
+  - npm install 
+  - jest 
+  - inquirer  
   ## Usage 
   ## Links
-  https://github.com/DBueno1464
-  https://drive.google.com/file/d/1Yj0Bp3QAOnNOfHu9iwC-zAYrrGIFGJ0H/view
+  - https://github.com/DBueno1464
+  - https://drive.google.com/file/d/1Yj0Bp3QAOnNOfHu9iwC-zAYrrGIFGJ0H/view
